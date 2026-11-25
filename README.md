@@ -1,14 +1,12 @@
-# A* Maze Solver
+# SyntexHub - A* Maze Solver
 
-## Project Description
-This project solves a maze using the A* Search Algorithm.
-It finds the shortest path from the starting point
-to the goal.
+## About the Project
+A Python-based maze solver using the A* Search Algorithm to find the shortest path from start to goal.
 
 ## Technologies Used
 - Python
+- Heapq
 - A* Search Algorithm
-- Heap Queue
 
 ## Features
 - Maze representation
@@ -18,4 +16,5 @@ to the goal.
 
 ## How to Run
 
+```bash
 python main.py
